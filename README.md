@@ -4,9 +4,17 @@
 Efat Khan
 
 ## Description
-This project contains a simple Python program with two helper functions, `add(a, b)` and `subtract(a, b)`, defined in `src/utils.py` and called from `src/main.py`.
+This project contains a simple Python calculator program. The math helper functions live in `src/utils.py`, and `src/main.py` lets the user choose an operation and enter numbers dynamically.
+
+Available operations:
+- add
+- subtract
+- multiply
+- divide
+- modulus
+- power
 
 ## Run
-Run `src/main.py` to print the sample results from both functions.
+Run `src/main.py` and follow the prompts to choose an operation and enter two numbers.
 
 
