@@ -1,8 +1,16 @@
 ## Project Description
 
-This repository is a small Python practice project. The core logic lives in `src/utils.py`, where `add(a, b)` and `subtract(a, b)` are defined. The entry point in `src/main.py` imports both helpers and calls them with sample values.
+This repository is a small Python practice project that works as an interactive calculator. The math functions live in `src/utils.py`, and `src/main.py` prompts the user to choose an operation and enter two numbers.
+
+Supported operations:
+- add
+- subtract
+- multiply
+- divide
+- modulus
+- power
 
 ## Goal
 
-Keep the project simple and focused on basic function definition, module import, and calling functions from a main file.
+Keep the project simple while showing basic function definition, module import, dynamic user input, and simple calculator logic.
 
