@@ -1,8 +1,12 @@
-# 🌱 Habit Tracker
-### 👤 Author
-Efat Khan
-## ✨ Build better habits every day
+# Calculator Practice
 
-Habit Tracker is a simple and motivating project designed to help users organize daily tasks, stay consistent, and turn routine actions into lasting habits.
+## Author
+Efat Khan
+
+## Description
+This project contains a simple Python program with two helper functions, `add(a, b)` and `subtract(a, b)`, defined in `src/utils.py` and called from `src/main.py`.
+
+## Run
+Run `src/main.py` to print the sample results from both functions.
 
 
